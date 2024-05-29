@@ -1,5 +1,5 @@
-# Label-aware Attention Network with Multi-scale Boosting for Medical Image Segmentation
-This is the official implementation for: **Label-aware Attention Network with Multi-scale Boosting for Medical Image Segmentation**
+# Attentional Dual-encoder Fusion for Nucleus Segmentation
+This is the official implementation for: **Attentional Dual-encoder Fusion for Nucleus Segmentation**
 
 ## Preparation
 
